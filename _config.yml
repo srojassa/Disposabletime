@@ -1,1 +1,12 @@
+# basic options
+title: Disposable Time 
+author: Financial nerd
+#email: your-email@domain.com
+description: Ideas notepad
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+#theme: minima
 theme: jekyll-theme-tactile
