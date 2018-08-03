@@ -6,4 +6,4 @@ title: About
 
 In a word: **Awesome!**
 
-See the [Home page](/disposabletime/README.md)
+See the [Home page](/disposabletime/)
