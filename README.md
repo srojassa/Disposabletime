@@ -3,7 +3,7 @@
 This is a great new site.
 p.s. gh-pages rock!
 <ul>
-  {% for post in site.posts %}
+  {% for post %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
