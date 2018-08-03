@@ -2,13 +2,8 @@
 
 This is a great new site.
 p.s. gh-pages rock!
-<ul>
-  {% for post %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+* [Primer Post](2018-08-02-primerintendo.md)
 
 ![pantallazo](imagen.png)
 
