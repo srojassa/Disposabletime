@@ -1,3 +1,7 @@
-# Awesome Post
+---
+layout: post
+title: A Great First Post
+---
 
-ASDF
+This is it!
+What a wonderful post!
