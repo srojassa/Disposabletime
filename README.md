@@ -3,7 +3,7 @@
 This is a great new site.
 p.s. gh-pages rock!
 
-* [Primer Post](2018-08-02-primerintendo.md)
+* [Primer Post](2018-08-02-primerintento.md)
 
 ![pantallazo](imagen.png)
 
